@@ -1,7 +1,7 @@
 # 相关技术
 
 ## Ubuntu下python解释器的安装
-[python安装教程]（http://jingyan.baidu.com/article/eae07827f7f2d01fec5485f7.html）
+[python安装教程](http://jingyan.baidu.com/article/eae07827f7f2d01fec5485f7.html)
 
 ## Ubuntu下github使用方法
 
@@ -28,3 +28,5 @@ git push origin :branch_you_want_to_delete #删除远程分支（注意空格，
 git remote -v #查看远程URL版本  
 git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git #把URL地址从HTTPS切换到SSH  
 git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git #把URL地址从SSH切换到HTTPS  
+  
+[远程操作](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)

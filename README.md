@@ -9,7 +9,6 @@
 
 ## TensorFlow使用方法
 
-<<<<<<< HEAD
 ## Git基本操作
 更多内容参考[https://git-scm.com/doc](https://git-scm.com/doc)
 ### Git常用命令
@@ -48,4 +47,3 @@ git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git #把UR
 ### Git基本操作
 [远程操作](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 [分支的新建与合并](https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6)
->>>>>>> 43844c45f2ddc739a114268e4a74b171513322c3

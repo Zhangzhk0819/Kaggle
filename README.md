@@ -1,15 +1,29 @@
-# 相关技术
+# 基础知识
 
-## Ubuntu下python解释器的安装
+## 机器学习相关资料
+首先列举两个搜集机器学习学习资料的开源库  
+[awesome-machine-learning](https://github.com/Zhangzhk0819/awesome-machine-learning.git)  
+[Qix](https://github.com/Zhangzhk0819/Qix.git)
+
+## 经典Python机器学习库
+### tensorflow
+tensorflow主要擅长基于神经网络的机器学习方法，包括目前比较火的深度学习。  
+这是一个比较完整的[中文教程](https://github.com/Zhangzhk0819/tensorflow-zh.git)。
+
+### scikit
+scikit擅长的领域比较多，包括各种分类聚类算法，可以和tensorflow结合起来使用。
+
+## 分布式计算框架
+hadoop  
+spark
+
+## 数据可视化
+
+## 其他相关技术
+### Ubuntu下python解释器的安装
 [python安装教程](http://jingyan.baidu.com/article/eae07827f7f2d01fec5485f7.html)
 
-## Ubuntu下github使用方法
-
-## Python在机器学习中的应用
-
-## TensorFlow使用方法
-
-## Git基本操作
+### Git基本操作
 更多内容参考[https://git-scm.com/doc](https://git-scm.com/doc)
 ### Git常用命令
 git init # 初始化本地Git版本库  
@@ -29,5 +43,5 @@ git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git #把URL地
 git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git #把URL地址从SSH切换到HTTPS  
   
 ### Git基本操作
-[远程操作](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+[远程操作](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)  
 [分支的新建与合并](https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6)

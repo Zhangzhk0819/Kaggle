@@ -10,7 +10,9 @@
 ## TensorFlow使用方法
 
 <<<<<<< HEAD
-## Git常用命令
+## Git基本操作
+更多内容参考[https://git-scm.com/doc](https://git-scm.com/doc)
+### Git常用命令
 git init # 初始化本地Git版本库
 git add # 暂存文件，如果使用.表示当前目录及其子目录
 git commit -m “first commit” # 提交，-m选项后跟内容为提交所用的注释
@@ -43,5 +45,7 @@ git remote -v #查看远程URL版本
 git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git #把URL地址从HTTPS切换到SSH  
 git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git #把URL地址从SSH切换到HTTPS  
   
+### Git基本操作
 [远程操作](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+[分支的新建与合并](https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6)
 >>>>>>> 43844c45f2ddc739a114268e4a74b171513322c3
